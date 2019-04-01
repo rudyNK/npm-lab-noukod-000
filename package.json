@@ -6,9 +6,10 @@
   "directories": {
     "test": "test"
   },
-"scripts": {
-  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
-},
+
+
+
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rudyNK/npm-lab-noukod-000.git"
